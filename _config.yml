@@ -96,50 +96,53 @@ analytics:
 author:
   name             : "Nick Wibert"
   avatar           : "/assets/images/profile-pic.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I love movies and people."
+  bio              : "Student at the University of Florida studying Statistics and Mathematics with a minor in Computer Science."
   location         : "Gainesville, FL"
   email            : "nickwibert@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:nickwibert@gmail.com"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "mailto:nickwibert@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
-      url: "https://linkedin.com/nickwibert"
-    - label: "Website"
+      url: "https://linkedin.com/in/nicholas-wibert"
+    - label: "Tableau Public"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://public.tableau.com/profile/nicholas.wibert#!/"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nickwibert"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/nickwibert"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/nickwibert"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/nickwibert"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/nickwibert"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://linkedin.com/in/nicholas-wibert"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nickwibert"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/nickwibert"
+    # - label: "GitLab"
+    #   icon: "fab fa-fw fa-gitlab"
+    #   # url:
+    # - label: "Bitbucket"
+    #   icon: "fab fa-fw fa-bitbucket"
+    #   # url:
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/nickwibert"
 
 
 # Reading Files
