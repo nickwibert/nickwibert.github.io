@@ -5,7 +5,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: assets/images/desk.JPG
+  overlay_image: assets/images/desk.png
   actions:
     - label: "Resumé"
       url: "/assets/files/Wibert_resume.pdf"
