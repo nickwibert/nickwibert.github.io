@@ -8,7 +8,11 @@ header:
   overlay_image: /assets/images/trees.jpeg
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
-feature_row:
+school:
+  - title: Survival Analysis of Chronic Active Hepatitis Patients
+    excerpt: "A sample of my R code and document formatting using LaTeX."
+    title_url: /files/survival_p2.pdf
+other:
   - image_path: assets/images/tableau.png
     alt: "My Spotify Trends"
     title: "My Spotify Trends"
@@ -25,7 +29,7 @@ feature_row:
     btn_class: "btn--primary btn--inverse"
 ---
 
-
-{% include feature_row id="feature_row"%}
+{% include feature_row id="school" type="center"%}
+{% include feature_row id="other"%}
 
 

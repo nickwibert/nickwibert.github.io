@@ -8,7 +8,7 @@ header:
   overlay_image: assets/images/desk.png
   actions:
     - label: "Resumé"
-      url: "/assets/files/Wibert_resume.pdf"
+      url: "/files/Wibert_resume.pdf"
 excerpt: 'My name is Nick Wibert.'
 ---
 

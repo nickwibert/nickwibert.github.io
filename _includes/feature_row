@@ -21,7 +21,15 @@
 
         <div class="archive__item-body">
           {% if f.title %}
-            <h2 class="archive__item-title">{{ f.title }}</h2>
+            {% if f.title_url %}
+              <p><a href="{{ f.title_url | relative_url }}"><h4 class="archive__item-title">{{ f.title }}</h4></a></p>
+            {% else %}
+              <h2 class="archive__item-title">{{ f.title }}</h2>
+            {% endif %}
+          {% endif %}
+
+          {% if f.title_small %}
+            <a href="/files/survival_p2.pdf">{{ f.title_small }}</a>
           {% endif %}
 
           {% if f.excerpt %}
