@@ -14,4 +14,4 @@ excerpt: 'My name is Nick Wibert.'
 
 I am a student at the University of Florida studying Statistics and Mathematics with a minor in Computer Science.
 
-Currently, I work as a Database Specialist for the Florida Department of Transportation (FDOT) at their State Materials Office in Gainesville, Florida. I write queries and build reports for their [Materials Access and Certification (MAC) program.](https://mac.fdot.gov/)
+Currently, I work as a Database Specialist for the Florida Department of Transportation (FDOT) at their State Materials Office in Gainesville, Florida. I write SQL queries and build reports for their [Materials Access and Certification (MAC) system.](https://mac.fdot.gov/)

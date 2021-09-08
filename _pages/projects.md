@@ -11,7 +11,7 @@ intro:
 school:
   - title: Survival Analysis of Chronic Active Hepatitis Patients
     excerpt: "A sample of my R code and document formatting using LaTeX."
-    title_url: /files/survival_p2.pdf
+    title_url: /files/survival-hepatitis.pdf
 other:
   - image_path: assets/images/tableau.png
     alt: "My Spotify Trends"
@@ -29,7 +29,15 @@ other:
     btn_class: "btn--primary btn--inverse"
 ---
 
-{% include feature_row id="school" type="center"%}
+<span style="font-size:1.1em;text-align:center">
+    **[Survival Analysis of Chronic Active Hepatitis Patients](/files/survival-hepatitis.pdf)**  
+</span>
+<span style="font-size:0.7em;">
+    A sample of my R code and LaTeX document formatting.
+</span>
+
+---
+
 {% include feature_row id="other"%}
 
 
