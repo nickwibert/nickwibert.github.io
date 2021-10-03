@@ -5,6 +5,8 @@ layout: single
 author_profile: true
 ---
 
+[Link to GitHub repository](https://github.com/nickwibert/Twin-Peaks-Unity)
+
 <iframe
     src="https://i.simmer.io/@waffle2006/twin-peaks"
     style="width:800px;height:600px;border:1">
