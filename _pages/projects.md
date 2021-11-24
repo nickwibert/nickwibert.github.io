@@ -13,6 +13,13 @@ school:
     excerpt: "A sample of my R code and document formatting using LaTeX."
     title_url: /files/survival-hepatitis.pdf
 other:
+  - image_path: assets/images/PM-research.png
+    alt: "Undergraduate Research"
+    title: "Pollution Research"
+    excerpt: "Assisting my statistics professor in ongoing research investigating the causal effect of air pollution mixtures."
+    url: https://github.com/nickwibert/PM-research
+    btn_label: "GitHub Repo"
+    btn_class: "btn--primary btn--inverse"
   - image_path: assets/images/tableau.png
     alt: "My Spotify Trends"
     title: "My Spotify Trends"
