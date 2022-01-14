@@ -12,20 +12,20 @@ school:
   - title: Survival Analysis of Chronic Active Hepatitis Patients
     excerpt: "A sample of my R code and document formatting using LaTeX."
     title_url: /files/survival-hepatitis.pdf
-other:
+feature1:
+  - image_path: assets/images/letterboxd.png
+    alt: "Letterboxd Machine Learning"
+    title: "Letterboxd ML"
+    excerpt: "R project where I trained classification algorithms on my Letterboxd data to evaluate predictive performance for my movie ratings."
+    url: https://github.com/nickwibert/LetterboxdML
+    btn_label: "GitHub Repo"
+    btn_class: "btn--primary btn--inverse"
   - image_path: assets/images/PM-research.png
     alt: "Undergraduate Research"
     title: "Pollution Research"
-    excerpt: "Assisting my statistics professor in ongoing research investigating the causal effect of air pollution mixtures."
+    excerpt: "Assisting in research investigating the causal effect of air pollution mixtures by managing data on a Linux server and writing R scripts."
     url: https://github.com/nickwibert/PM-research
     btn_label: "GitHub Repo"
-    btn_class: "btn--primary btn--inverse"
-  - image_path: assets/images/tableau.png
-    alt: "My Spotify Trends"
-    title: "My Spotify Trends"
-    excerpt: "An interactive Tableau dashboard I built to visualize my Spotify listening habits. [Click here to visit my Tableau Public profile.](https://public.tableau.com/profile/nicholas.wibert#!/)"
-    url: /tableau/
-    btn_label: "View"
     btn_class: "btn--primary btn--inverse"
   - image_path: assets/images/tp-life-and-death.png
     alt: "Twin Peaks Computer Game"
@@ -33,6 +33,14 @@ other:
     excerpt: "A basic platformer I made for a college course. The game was built in Unity using modified C# scripts and self-designed pixel art/animations."
     url: /twin-peaks/
     btn_label: "Play Now"
+    btn_class: "btn--primary btn--inverse"
+feature2:
+  - image_path: assets/images/tableau.png
+    alt: "My Spotify Trends"
+    title: "My Spotify Trends"
+    excerpt: "An interactive Tableau dashboard I built to visualize my Spotify listening habits. [Click here to visit my Tableau Public profile.](https://public.tableau.com/profile/nicholas.wibert#!/)"
+    url: /tableau/
+    btn_label: "View"
     btn_class: "btn--primary btn--inverse"
 ---
 
@@ -45,6 +53,8 @@ other:
 
 ---
 
-{% include feature_row id="other"%}
+{% include feature_row id="feature1"%}
+
+{% include feature_row id="feature2"%}
 
 
