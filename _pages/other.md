@@ -41,6 +41,7 @@ author_profile: true
 </span>
 
 <span style="font-size:0.7em;line-height:0.1em;">
-    During that time I also gradually brought more moderators onto the team, and eventually took a step back from managing the site to focus on my school and work. The subreddit currently has about 42k members and is still going strong.
+    During that time I also gradually brought more moderators onto the team, and eventually took a step back from managing the site to focus on my school and work. The subreddit currently sits at ~90k members and is still going strong.
 </span>
+
 ---
