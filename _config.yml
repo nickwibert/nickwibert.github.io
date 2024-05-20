@@ -96,9 +96,9 @@ analytics:
 author:
   name             : "Nick Wibert"
   avatar           : "/assets/images/profile-pic.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "UF graduate with a dual degree in Math and Stats and a minor in Computer Science. MS Statistics student at Florida State University."
-  location         : "Lakeland, FL"
-  email            : "nickwibert@gmail.com"
+  bio              : "Recent MS Statistics graduate from Florida State University. Studied math, statistics, and computer science at the University of Florida."
+  location         : "New York, NY"
+  email            : "nlw22@fsu.edu"
   links:
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"

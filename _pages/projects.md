@@ -45,10 +45,17 @@ feature2:
 ---
 
 <span style="font-size:1.1em;text-align:center">
+    **[Reversible Jump Markov Chain Monte Carlo Algorithm for Model Selection in Linear Regression](/files/RJMCMC_model_selection.pdf)**  
+</span>
+<span style="font-size:0.7em;">
+    A project implementing RJMCMC for feature selection in linear models (Python code included in appendix).
+</span>
+
+<span style="font-size:1.1em;text-align:center">
     **[Survival Analysis of Chronic Active Hepatitis Patients](/files/survival-hepatitis.pdf)**  
 </span>
 <span style="font-size:0.7em;">
-    A sample of my R code and LaTeX document formatting.
+    A survival analysis project performed using R.
 </span>
 
 ---
