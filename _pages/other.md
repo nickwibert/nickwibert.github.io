@@ -15,7 +15,7 @@ author_profile: true
     **[Cinematic Subjectivity in *Good Time* and *Uncut Gems*](/files/moving_image_final.pdf)**  
 </span>
 <span style="font-size:0.7em;">
-    Analysis of the cinematography in the films directed by the Safdie brothers.
+    Analysis of the cinematography in films directed by [the Safdie brothers](https://en.wikipedia.org/wiki/Safdie_brothers).
 </span>
 
 ---
