@@ -8,7 +8,7 @@ header:
   overlay_image: assets/images/desk.png
   actions:
     - label: "Resume"
-      url: "/files/NicholasWibert_resume.pdf"
+      url: "/files/Wibert_resume.pdf"
 excerpt: 'My name is Nick Wibert.'
 ---
 <span style="font-size:0.8em;line-height:0.1em;">
