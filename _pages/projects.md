@@ -8,10 +8,6 @@ header:
   overlay_image: /assets/images/trees.jpeg
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
-school:
-  - title: Survival Analysis of Chronic Active Hepatitis Patients
-    excerpt: "A sample of my R code and document formatting using LaTeX."
-    title_url: /files/survival-hepatitis.pdf
 feature1:
   - image_path: assets/images/stmnu2.png
     alt: "Gymtek Student Menu"
@@ -50,19 +46,18 @@ feature2:
     btn_label: "View"
     btn_class: "btn--primary btn--inverse"
 ---
+<span style="font-size:1.1em;text-align:center">
+    **[Association of body mass index with risk of dementia using longitudinal and survival analysis](/files/BMI_dementia.pdf)**  
+</span>
+<span style="font-size:0.7em;">
+    A research project applying GEEs and survival analysis methods to BMI and dementia data (R code included in appendix).
+</span>
 
 <span style="font-size:1.1em;text-align:center">
     **[Reversible Jump Markov Chain Monte Carlo Algorithm for Model Selection in Linear Regression](/files/RJMCMC_model_selection.pdf)**  
 </span>
 <span style="font-size:0.7em;">
     A project implementing RJMCMC for feature selection in linear models (Python code included in appendix).
-</span>
-
-<span style="font-size:1.1em;text-align:center">
-    **[Survival Analysis of Chronic Active Hepatitis Patients](/files/survival-hepatitis.pdf)**  
-</span>
-<span style="font-size:0.7em;">
-    A survival analysis project performed using R.
 </span>
 
 ---
